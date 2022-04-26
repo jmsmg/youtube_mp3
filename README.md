@@ -14,3 +14,7 @@ https://jmsmg.github.io/toy/youtube_mp3/
 
 참조 링크
 https://stackoverflow.com/questions/68945080/pytube-exceptions-regexmatcherror-get-throttling-function-name-could-not-find
+
+---
+
+-  mp4 -> mp3 기능 추가(https://github.com/jmsmg/youtube_mp3/commit/2cc139469893054463af3f74b7938a175a4722dc)
