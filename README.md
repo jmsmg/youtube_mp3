@@ -9,5 +9,8 @@
 4. URL 입력 및 엔터
 5. 종료시 컨트롤 + C
 
+상세 설명
+https://jmsmg.github.io/toy/youtube_mp3/
+
 참조 링크
 https://stackoverflow.com/questions/68945080/pytube-exceptions-regexmatcherror-get-throttling-function-name-could-not-find
